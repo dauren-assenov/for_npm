@@ -9,6 +9,7 @@
   "keywords": [
     "key"
   ],
+  "reprository": "https://github.com/dauren-assenov/for_npm",
   "author": "Daur",
   "license": "ISC",
   "dependencies": {
